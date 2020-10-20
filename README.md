@@ -1,6 +1,12 @@
 # comorbid-insights
 
-# Aggregate and unpivot 2018-2020 data from CDC files
+# Description
+
+# Installation
+
+# Usage
+
+## Aggregate and unpivot 2018-2020 data from CDC files
 ./sum_unpivot.pl > _comorbids_unpivot.csv
 
 # Create file to store CDC column names
